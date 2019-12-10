@@ -5,23 +5,23 @@
 }
 
 .infoCardHeadline {
-    font-family: serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 2.25rem;
     font-weight: bold;
     color: black;
-    border: 2px solid black;
+    /*border: 2px solid black;*/
     padding: 24px;
 }
 
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
-    background-color: gray;
+    background-color: black;
     border: transparent;
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
-    color: gray;
-    background-color: white;
+    color: white;
+    background-color: blue;
     border: transparent;
 }
 
@@ -29,6 +29,6 @@
     background-color: #EDCFD1
   }
 
-  .infoCardContainer--metal {
+.infoCardContainer--metal {
     background-color: #e1e1e1
   }
