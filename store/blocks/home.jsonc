@@ -9,9 +9,7 @@
       "slider-layout#home",
       "responsive-layout",
       "responsive-layout.desktop#desktop",
-      "responsive-layout.mobile#mobile",
-      "image#desktop",
-      "image#mobile"
+      "responsive-layout.mobile#mobile"
     ]
   },
 
