@@ -91,11 +91,17 @@
   },
 
   "responsive-layout.desktop#desktop": {
-    "children": ["rich-text#desktop"]
+    "children": [
+      "rich-text#desktop",
+      "image#desktop"
+    ]
   },
   
   "responsive-layout.mobile#mobile": {
-    "children": ["rich-text#mobile"]
+    "children": [
+      "rich-text#mobile",
+      "image#mobile"
+    ]
   },
   
   "rich-text#desktop": {
